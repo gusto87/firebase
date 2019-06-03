@@ -1,0 +1,26 @@
+.table{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(165, 247, 15)
+}
+
+.head{
+    font-family: 'Times New Roman'
+}
+
+
+.jumbotron{
+    background: url(images/train.png);
+    background-size: 650px 280px;
+}
+
+.jumbotron h1{
+    font-weight: bold
+}
+
+.jumbotron p{
+    font-weight: bolder
+}
+
+.row{
+    color: black
+}
