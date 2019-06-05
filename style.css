@@ -21,6 +21,12 @@
     font-weight: bolder
 }
 
-.row{
-    color: black
+form{
+    background: black;
+    color: rgb(115, 255, 0)
+}
+
+.header{
+    -webkit-column-count: 3;
+    column-count: 3;
 }
