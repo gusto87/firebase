@@ -17,6 +17,7 @@
     firebase.initializeApp(firebaseConfig);
    
   var database = firebase.database();
+  console.log("my train results",database)
 
 // values for table 
   

@@ -10,7 +10,7 @@
 
 .jumbotron{
     background: url(images/train.png);
-    background-size: 650px 280px;
+    background-size: cover;
 }
 
 .jumbotron h1{
